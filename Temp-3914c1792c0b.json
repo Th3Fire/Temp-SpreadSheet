@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "eighth-gamma-131404",
+  "private_key_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n3RK/ZDjXLrZ1QNLFKpgS899mr2vZNaIkwfA5OdELoGWiJPfd1DiVHxgFJBL5+Q2r\nfNo4Xcn9Lf5NvgbKBa7scH3hcz3Ku4tdNPbWX4jhTPn3Yaavb9s7Do1Ca9jxCPNt\nXQijzsyxCLfugWK+Lj/Wpe6HbuFU4b5TKYZ/hKDn+049LYtRausMDBmV5wEj5LSS\n7pcH8KmF4gHGI4TMGpPhijeHcirs6zvkypcnYrFbhhTAEXIjUwIePUd4qUXpCo7a\nNOlUE9BXAgMBAAECggEAOFSeo6a7J8cD++WJmJ4JYHHQ8VF2OU6bAiTjeSqPe/wN\nFufPMGewJ7QYiV8L65nAENCKKDfd/Looydy3Jjedxl3B6JgghTkokwiDcZakkSPQ\nv8aVRSEyAaZ+0tTUEuXOtRk2iX2CUVcfIG88YNyMkKTwc6i1My9y9OoDH9B0fo8q\nhyBD9onqhmA5SyDysWV1MUbxjU2xUcPqRywhYZtq6sqLGoAWi9m1wx7M8jKLHofG\nd+xPD+QQWUHXxO+w/8pszK81DCN6sciUGJ5adcDGccxu7mm/h712Q3kTBVpl4Ke9\n4oEzCSu0r2GFOA9HCth/BO25w1YQnf+Aj5NX93pU2QKBgQDsv6ThfkDoQKZ5iUIP\n2uEFgjaGiDdy+RgsUSxoF4UySZk4bZzCTfEDwH7bTBFbSMUK9y16PdFHhQDHW94M\nvh+2veI1wOi5yoEHlNroAy3cvCq60vQfM58mgEm4JVj64/QZYDK3OIAjpSCBf6zs\nRIhTPH3mI5GuaY/vKZgfG3EBgwKBgQDS7yyr8aBnyGV3y406hFAyThKgvkzR3isU\nMyPPO8bsqM5BthDAXPkhj+3opg9w50r2l83oPq6t2GsLdkctGGGHkCKWxu53wlCy\n6iiwrlVPIIxDwncGBSweMXg/4ZzNkhgzhKVvYgEBRe4Ks4q/w7d9criDOvy6RnXz\nCu8fNtwhnQKBgQCFcnzw8eaKQ67SwPCw2TKPlVdAu9VthEUA7fx27BMTRnMMYJTE\n3YQmFkIrQJRj/P+8b5l91wx5INpQhVMDocNkkWHJ5OQJncDfUiOWNfyK+LGpPzGF\nyOZDoHptRvgB663zA8tyhXGNJg3NkPca8oJZULaym4gJZM1SBQMPPbuUGwKBgDzG\noyVrul8M04efw7J/myfTbPSZwEKb8+efEItOWvOnc75lOhBi+XldIhxtdHeAfQ3u\nEWsAXI5ElBs6Wim5I6jOs9ijuuQQvfW/GDhIEtZ4t1Fyv56hcOPGNzKYy/hDRuvZ\nJV2hbE60mnDE6I52UvE3U8ij/1ugn62Gkf15bhXVAoGAW+J2cFLzjzbYvPHdgxMu\nKjPgn06BSZynzuJ1oLL0ha2nvuxlxuYXbXkeGTj3aG8hDBmuYDDblVA7WOef3gQb\nXBscxcyHY9bhNjjWcJz3OcIoAZ3LlFSftaUyN0Qq9GIPRCKfwo2CfvGVqNSBfm29\nIS1X7oku+FwDrfs99tt5n+c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "xxxxxxx@eighth-gamma-131404.iam.gserviceaccount.com",
+  "client_id": "xxxxxxxxxxxxxxxxxx",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/xxxxxxxx%40eighth-gamma-131404.iam.gserviceaccount.com"
+}
+
+##### This example json file it can't apply becuase some value not true you can get it from "Get OAuth2 credentials"
