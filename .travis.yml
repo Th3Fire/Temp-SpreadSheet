@@ -5,8 +5,6 @@ python:
   - "3.4"
 
 # command to install dependencies
-install: 
-sudo apt-get install python-pip
-sudo pip install gspread oauth2client
+install: pip install gspread oauth2client
 # command to run tests
 script: nosetests
