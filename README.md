@@ -1,5 +1,9 @@
 ## Temp-SpreadSheet
+
+[![Build Status](https://drone.io/github.com/wuttinunt/Temp-SpreadSheet/status.png)](https://drone.io/github.com/wuttinunt/Temp-SpreadSheet/latest)
+
 DS18B20 temperature device
+
 Send data from Raspberry Pi to Spreadsheets (Google Docs)
 
 ## First you need todo
