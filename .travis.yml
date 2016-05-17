@@ -14,4 +14,4 @@ sudo apt-get install python-pip
 sudo apt-get install git
 sudo pip install gspread oauth2client
 
-script: README.md --allow-redirect --allow-dupe
+script: 
