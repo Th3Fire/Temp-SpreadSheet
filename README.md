@@ -27,7 +27,7 @@ Look at ```#dtoverlay=w1-gpio``` and uncomment ```dtoverlay=w1-gpio```
 
 ## Connect Raspberry Pi with DS18B20
 
-![RasPi](image.png?raw=true "RasPi")
+![RasPi](https://github.com/wuttinunt/temperature-thingspeak/raw/master/image.png??raw=true "RasPi")
 
 ## Install DS18B20 and Kernel Module
 ```bash
