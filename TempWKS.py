@@ -17,9 +17,9 @@ def main():
 		temperatures = sensor.get_temperatures([DS18B20.DEGREES_C, DS18B20.DEGREES_F, DS18B20.KELVIN])
 		
 		print time
-       	print("Degrees Celsius: %f" % temperatures[0])
-       	print("Kelvin: %f" % temperatures[2])
-	    print("Degrees Fahrenheit: %f" % temperatures[1])
+       		print("Degrees Celsius: %f" % temperatures[0])
+       		print("Kelvin: %f" % temperatures[2])
+	 	print("Degrees Fahrenheit: %f" % temperatures[1])
 		print("Adding row please wait...")
 		
 		x = 0
