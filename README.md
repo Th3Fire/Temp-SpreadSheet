@@ -15,11 +15,11 @@ sudo apt-get install git
 sudo pip install gspread oauth2client
 ```
 
-# Get OAuth2 credentials
+## Get OAuth2 credentials
 Visit on website http://gspread.readthedocs.io/en/latest/oauth2.html and follow them.
 
 # Edit config file for ```w1-gpio```
-```Note``` If you don't use DS18B20 please skip ```Important``` caption.
+```Note``` If you don't use DS18B20 please skip ```Clone repository``` caption.
 ```bash
 sudo nano /boot/config.txt
 ```
@@ -51,7 +51,7 @@ cd Temp-SpreadSheet
 
 # Important !!!
 copy json file (get from create credentials [Get OAuth2 credentials](#Get OAuth2 credentials))
-please ensure ```json file``` must at same directory with TempWKS.py
+please ensure ```json file``` must at same directory with TempWKS.py.
 
 # Run
 ```bash
