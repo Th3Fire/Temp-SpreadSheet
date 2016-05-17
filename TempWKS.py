@@ -26,7 +26,7 @@ def main():
 		try:
 			for values in wks.col_values(1):  ## loop count row
     				x = x + 1
-			rowToAdd = [time, temperatures[0], temperatures[2], temperatures[1]]
+			rowToAdd = [time, temperatures[0], temperatures[2], temperatures[1]] ## your data want to send
 			wks.resize(x)
 			wks.append_row(rowToAdd)
 			print("Add row done !!!")
