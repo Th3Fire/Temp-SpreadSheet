@@ -11,4 +11,4 @@
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/xxxxxxxx%40eighth-gamma-131404.iam.gserviceaccount.com"
 }
 
-##### This example json file it can't apply becuase some value not true you can get it from "Get OAuth2 credentials"
+##### This is example json file it can't apply becuase some value not true you can get it from "Get OAuth2 credentials"
