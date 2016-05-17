@@ -2,6 +2,8 @@
 
 [![Build Status](https://drone.io/github.com/wuttinunt/Temp-SpreadSheet/status.png)](https://drone.io/github.com/wuttinunt/Temp-SpreadSheet/latest)
 
+[![Build Status](https://travis-ci.org/wuttinunt/Temp-SpreadSheet.svg?branch=master)](https://travis-ci.org/wuttinunt/Temp-SpreadSheet)
+
 DS18B20 temperature device
 
 Send data from Raspberry Pi to Spreadsheets (Google Docs)
