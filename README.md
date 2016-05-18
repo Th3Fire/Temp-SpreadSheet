@@ -17,7 +17,7 @@ Send data from Raspberry Pi to Spreadsheets (Google Docs)
 sudo apt-get update
 sudo apt-get install python-pip
 sudo apt-get install git
-sudo pip install gspread oauth2client
+sudo pip install gspread oauth2client PyOpenSSL
 ```
 
 ## Get OAuth2 credentials
