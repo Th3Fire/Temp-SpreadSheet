@@ -23,6 +23,15 @@ sudo pip install gspread oauth2client PyOpenSSL
 ## Get OAuth2 credentials
 Visit on website http://gspread.readthedocs.io/en/latest/oauth2.html and follow them.
 
+## How to get credentials
+1. Goto https://console.developers.google.com 
+2. create project(or select the one you have)
+3. In tab Google APIs look at Google Apps APIs > Drive API > Enable
+4. In left sidebar menu select ```Credentials``` > Look at drop down menu Create credentials > select ```Service account key```
+5. Service account > select ```New service account``` > Set name of service account > Key type > select ```JSON``` 
+6. Click ```Create``` wait a second you'll get a json file.
+
+
 ## Edit config file for ```w1-gpio```
 ```Note``` If you don't use DS18B20 please skip ```Clone repository``` caption.
 ```bash
